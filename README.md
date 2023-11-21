@@ -13,3 +13,7 @@ Base functionality model of the game.
 ### V1.1
 - Added High Score using Playerpref (Note: Playerpref is un-reset-able by default thus your gained high score will not be reset so long as you don't delete it in the registry of Windows. Adding a reset high score button is considered for the next update).
 - Adjusted difficulties.
+
+### V1.2
+- Added High Score Reset button in game over screen.
+- Adjusted pillar spawning position.
